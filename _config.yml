@@ -15,7 +15,7 @@ title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://dreamy-beaver-340c55.netlify.com/"
-baseurl                  : ""https://dreamy-beaver-340c55.netlify.com/
+baseurl                  : 
 repository               : "mibook/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
